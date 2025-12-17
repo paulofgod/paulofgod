@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Paul-Ephraim
 
-<!--
-**paulofgod/paulofgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Software Developer** passionate about building scalable web applications and clean APIs.
 
-Here are some ideas to get you started:
+- 🌍 Based in Nigeria
+- 💻 Backend mostly & Frontend focused
+- 🚀 Always learning and shipping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python)
+
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
+![Django](https://img.shields.io/badge/Django-black?style=flat&logo=django)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap)
+
+### 🧰 Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-black?style=flat&logo=amazonaws)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
+
+---
+
+## 🚀 What I Do
+- Build REST APIs with **Django & Django REST Framework**
+- Develop modern UIs using **React, Next.js & Tailwind**
+- Deploy and manage applications on **AWS**
+- Work with **PostgreSQL** and relational databases
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *https://www.linkedin.com/in/paul-ephraim-ifeama-01773324b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
+- 🐦 Twitter/X: *https://x.com/ifeama_Ebuka*
