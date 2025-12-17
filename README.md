@@ -6,6 +6,8 @@ I'm a **Full-Stack Software Developer** passionate about building scalable web a
 - 💻 Backend mostly & Frontend focused
 - 🚀 Always learning and shipping
 
+📧 **Email:** paulephraimebuka@gmail.com
+
 ---
 
 ## 🛠️ Tech Stack
@@ -38,6 +40,8 @@ I'm a **Full-Stack Software Developer** passionate about building scalable web a
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: *https://www.linkedin.com/in/paul-ephraim-ifeama-01773324b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*
-- 🐦 Twitter/X: *https://x.com/ifeama_Ebuka*
+## 📊 GitHub Stats
+
+![Paul-Ephraim's GitHub stats](https://github-readme-stats.vercel.app/api?username=paul-ephraim&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-ephraim&layout=compact&theme=transparent)
