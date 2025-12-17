@@ -42,6 +42,8 @@ I'm a **Full-Stack Software Developer** passionate about building scalable web a
 
 ## 📊 GitHub Stats
 
-![Paul-Ephraim's GitHub stats](https://github-readme-stats.vercel.app/api?username=paul-ephraim&show_icons=true&theme=transparent)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paul-ephraim&layout=compact&theme=transparent)
+![Paul-Ephraim's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulofgod&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulofgod&layout=compact&theme=transparent)
